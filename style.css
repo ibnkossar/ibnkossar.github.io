@@ -1,1 +1,27 @@
 
+body { 
+  background-color: #444444;
+  color:#dddddd;
+  font-family: arial;
+  margin: 10% 20%;
+  
+}
+
+
+.exp-header{
+  text-align: center;
+  text-transform: uppercase;
+  border-top: 1px solid #dddddd;
+  border-bottom: 1px solid #dddddd;
+  background-color: rgba(0,0,0, 0.1)
+    
+}
+
+.edu-header{
+  text-align: center;
+  text-transform: uppercase;
+  border-top: 1px solid #dddddd;
+  border-bottom: 1px solid #dddddd;
+  background-color: rgba(0,0,0, 0.1)
+}
+    

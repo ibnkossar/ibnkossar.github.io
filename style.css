@@ -1,6 +1,5 @@
-
 body { 
-  background-color: #444444;
+  background-color: #336699;
   color:#dddddd;
   font-family: arial;
   margin: 10% 20%;
@@ -13,7 +12,7 @@ body {
   text-transform: uppercase;
   border-top: 1px solid #dddddd;
   border-bottom: 1px solid #dddddd;
-  background-color: rgba(0,0,0, 0.1)
+  background-color: rgba(0,0,0, 0.66)
     
 }
 
@@ -22,6 +21,8 @@ body {
   text-transform: uppercase;
   border-top: 1px solid #dddddd;
   border-bottom: 1px solid #dddddd;
-  background-color: rgba(0,0,0, 0.1)
-}
+  background-color: rgba(0,0,0, 0.66)
     
+}
+
+

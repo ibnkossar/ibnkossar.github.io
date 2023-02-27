@@ -1,11 +1,14 @@
 body { 
-  background-color: #336699;
-  color:#dddddd;
-  font-family: arial;
-  margin: 10% 20%;
-  
-}
-
+    background-image: url(https://i.pinimg.com/564x/a4/63/d8/a463d88ff814c79d5796ef7cf1f7a004.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position:center ;
+    background-size: cover;
+    color:#070707;
+    font-family: arial;
+    margin: 10% 20%;
+    
+  }
 
 .exp-header{
   text-align: center;
